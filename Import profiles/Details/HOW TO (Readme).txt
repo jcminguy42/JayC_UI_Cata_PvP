@@ -1,0 +1,1 @@
+Import profile via the AddOn in game /details config

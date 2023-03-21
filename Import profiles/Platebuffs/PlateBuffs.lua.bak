@@ -1,0 +1,10 @@
+
+PB_DB = {
+	["profileKeys"] = {
+		["Gsea - Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,12 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Gsea - Maelstrom"] = "Gsea - Maelstrom",
+	},
+	["profiles"] = {
+		["Gsea - Maelstrom"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 1,
+		},
+	},
+}
