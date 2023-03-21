@@ -1,1 +1,0 @@
-This goes in : WTF\Account\ACCOUNT_NAME\SavedVariables
